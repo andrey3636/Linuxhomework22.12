@@ -1,0 +1,16 @@
+   0 nano script.sh
+   1 ls
+   2 chmod +x script.sh
+   3 ls -la
+   4 ./script.sh
+   5 ls /opt/polo
+   6 nano /opt/polo
+   7 rm /opt/polo
+   8 /cd /var/log/
+   9 /root/script.sh
+  10 rm /opt/polo
+  11 alias my_script='bash /root/script.sh'
+  12 my_script
+  13 ls /opt/polo
+  14 cat /opt/polo
+  15 history > history.txt
